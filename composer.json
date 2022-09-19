@@ -1,0 +1,20 @@
+{
+    "name": "xu_project/test_xu_project",
+    "description": "这是一个测试项目包",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "XuProject\\TestXuProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xurui",
+            "email": "xurui@ziyun120.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
